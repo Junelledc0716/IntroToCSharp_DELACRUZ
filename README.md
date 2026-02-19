@@ -142,6 +142,9 @@ Budget Status
 ## Author:
 
 Junelle F. Dela Cruz
+
 Course: BSIT 3.2
+
 Instructor: Justin Louise R. Neypes
+
 Date Submitted: Feb 19, 2026
