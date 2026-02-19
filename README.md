@@ -1,15 +1,15 @@
-PRELIM 1 - Codac Logistics Fuel Monitoring System
+# PRELIM 1 - Codac Logistics Fuel Monitoring System
 
 
-Project Overview:
+## Project Overview:
 
 The Codac Logistics Fuel Monitoring System is a C# console-based application designed to track, analyze, and report a delivery vehicle’s weekly fuel consumption and performance. The system collects driver information, records daily fuel expenses, calculates efficiency metrics, and generates a structured audit report for evaluation purposes.
 
-This project demonstrates the practical application of fundamental programming concepts in C#, including input validation, arrays, loops, conditionals, formatting, and financial computation.
+his project demonstrates the practical application of fundamental programming concepts in C#, including input validation, arrays, loops, conditionals, formatting, and financial computation.
 
 
 
-Objectives:
+## Objectives:
 
 Collect and validate driver profile information.
 
@@ -25,7 +25,7 @@ Generate a clean and professional audit report.
 
 
 
-Features:
+## Features:
 
 ✔ Input validation using while loops and TryParse
 
@@ -41,7 +41,7 @@ Features:
 
 
 
-Core Programming Concepts Used:
+## Core Programming Concepts Used:
 
 - Data Types
 
@@ -57,7 +57,7 @@ Core Programming Concepts Used:
 
 
 
-Control Structures:
+## Control Structures:
 
 while loops for validation
 
@@ -75,7 +75,7 @@ Console color styling
 
 
 
-Program Flow:
+## Program Flow:
 
 Driver Profile & Distance Validation
 
@@ -107,7 +107,7 @@ Presents a structured financial summary.
 
 
 
-How to Run:
+## How to Run:
 
 Open the project in Visual Studio.
 
@@ -119,7 +119,7 @@ Follow the on-screen prompts.
 
 
 
-Sample Output Includes:
+## Sample Output Includes:
 
 Driver Name
 
@@ -139,7 +139,7 @@ Budget Status
 
 
 
-Author:
+## Author:
 
 Junelle F. Dela Cruz
 Course: BSIT 3.2
